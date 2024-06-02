@@ -1,0 +1,3 @@
+saponi, 2, 2.0
+shampuni, 2, 4.0
+xalati, 2, 35.0
